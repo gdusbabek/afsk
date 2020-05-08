@@ -18,7 +18,7 @@ with open("README.rst", "rb") as f:
 setup(
 	name="afsk",
 	version="0.0.3",
-	description=u"Bell 202 Audio Frequency Shift Keying encoder and APRS packet audio tools",
+	description="Bell 202 Audio Frequency Shift Keying encoder and APRS packet audio tools",
 	author="Christopher H. Casebeer",
 	author_email="",
 	url="https://github.com/casebeer/afsk",

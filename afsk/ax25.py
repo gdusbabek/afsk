@@ -10,7 +10,7 @@ import argparse
 from bitarray import bitarray
 import audiogen
 
-import afsk
+from . import afsk
 
 def bit_stuff(data):
 	count = 0
